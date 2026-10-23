@@ -1,0 +1,9 @@
+{
+  "name": "Furrix",
+  "short_name": "Furrix",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF8F4",
+  "theme_color": "#1F7A5C",
+  "icons": []
+}
